@@ -1,1 +1,1 @@
-Boilerplate React App
+CCT, a database-driven realtim web app
